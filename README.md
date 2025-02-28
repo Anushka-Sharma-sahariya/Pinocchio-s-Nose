@@ -16,8 +16,8 @@ Pinocchio's Nose is an innovative digital wellness platform designed to combat m
 
 
 <p>
-  <img src="https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/misc/pinocchio's_nose_md1.png" width="500">
-  <img src="https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/misc/pinocchio's_nose_md2.png" width="500">
+  <img src="https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/misc/pinocchio's_nose_md1.png" width="300">
+  <img src="https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/misc/pinocchio's_nose_md2.png" width="300">
 </p>
 
 
