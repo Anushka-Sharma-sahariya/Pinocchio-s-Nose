@@ -1,5 +1,4 @@
-# Pinocchio-s-Nose
-## Pinocchio's Nose: Digital Wellbeing Solution
+# Pinocchio's Nose: Digital Wellbeing Solution
 ### Overview
 Pinocchio's Nose is an innovative digital wellness platform designed to combat misinformation and create safer online environments by addressing two critical challenges: deepfake detection and audio profanity filtering.
 ### Key Features
