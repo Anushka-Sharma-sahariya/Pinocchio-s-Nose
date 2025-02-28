@@ -8,7 +8,8 @@ Pinocchio's Nose is an innovative digital wellness platform designed to combat m
 Advanced AI-Powered Detection: Leverages a Convolutional Neural Network (CNN) trained on extensive AI and real image datasets
 Misinformation Combat: Identifies and flags AI-generated and deepfake images
 Cyber Crime Reporting: Provides direct reporting mechanism to Indian cyber crime portal when deepfakes are detected
-
+Robust Training Dataset: Trained over a dataset of 100,000 images, consisting of 50,000 fake and 50,000 real images. 
+Link to the dataset: https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
 #### Technical Highlights
 
 Image preprocessing and data augmentation techniques
