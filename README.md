@@ -14,7 +14,8 @@ Pinocchio's Nose is an innovative digital wellness platform designed to combat m
 
 - Dataset Link: [**CIFAKE**](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
 
-<p align="center">
+
+<p>
   <img src="https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/misc/pinocchio's_nose_md1.png" width="500">
   <img src="https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/misc/pinocchio's_nose_md2.png" width="500">
 </p>
