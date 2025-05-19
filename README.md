@@ -36,11 +36,11 @@ Pinocchio's Nose is a comprehensive online wellbeing platform designed to detect
 
 ## 🧾 Project Structure:
 - **[ResNet50_Training.ipynb](https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/ResNet50_Training.ipynb)**  
-  Trains a ResNet50 model on an image dataset to detect AI-generated or deepfake content.
+  Trains a ResNet50 model on an image dataset to detect deepfake content.
 - **[Resnet50_Usage.ipynb](https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/Resnet50_Usage.ipynb)**  
   Demonstrates how to load and use the trained ResNet50 model for inference on new images.
 - **[CNN_Training.ipynb](https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/CNN_Training.ipynb)**  
-  Builds and trains a custom Convolutional Neural Network (CNN) for binary classification of fake vs. real images.
+  Builds and trains a custom Convolutional Neural Network (CNN) for binary classification of AI-generated vs. real images.
 - **[CNN_Usage_ui.py](https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/CNN_Usage_ui.py)**  
   Implements a simple UI to upload images and get predictions from the trained CNN model.
 - **[VulgarVeto.py](https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/VulgarVeto.PY)**  
