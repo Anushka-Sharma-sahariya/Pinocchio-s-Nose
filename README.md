@@ -6,19 +6,20 @@ Pinocchio's Nose is a comprehensive online wellbeing platform designed to detect
 > [!NOTE]
 > The Resnet50 Model is hosted on **Hugging Face🤗** for easy loading and deployment. [**View**](https://huggingface.co/krimson1/Resnet50_deepfake_detection)
 
-- **Advanced Neural Architecture:** Leverages a calibrated ResNet50 architecture to identify manipulated facial imagery
-- **Comprehensive Dataset:** Trained on deepfake face dataset containing 30,000 real and 90,000 deepfake images
-- **High Performance:** Achieves 98.1% accuracy on detection tasks
-- **Misinformation Shield:** Identifies and flags deepfake images to prevent the spread of false information
-- Dataset Link: [**DeepFakeFace**](https://huggingface.co/datasets/OpenRL/DeepFakeFace)
+- 🔍 **Advanced Neural Architecture:** Leverages a calibrated **ResNet50** architecture to identify manipulated facial imagery
+- 🗂️ **Comprehensive Dataset:** Trained on the **DeepFakeFace** dataset containing **30,000 real** and **90,000 deepfake** images
+- 📈 **High Performance:** Achieves **98.1% accuracy** on detection tasks
+- 🛡️ **Misinformation Shield:** Flags deepfake images to prevent the spread of **false information**
+- 📚 **Dataset Link:** [**DeepFakeFace**](https://huggingface.co/datasets/OpenRL/DeepFakeFace)
+
 
 ### 2. Pinocchio's Nose: AI-Generated Image Detection
 
-- **Advanced AI-Powered Detection:** Leverages a Convolutional Neural Network (CNN) trained on extensive AI and real image datasets
-- **Misinformation Combat:** Identifies and flags AI-generated and deepfake images
-- **Cyber Crime Reporting:** Provides direct reporting mechanism to Indian cyber crime portal when deepfakes are detected
-- **Robust Training Dataset:** Trained over a dataset of 100,000 images, consisting of 50,000 fake and 50,000 real images. 
-- Dataset Link: [**CIFAKE**](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
+- 🔍 **Advanced AI-Powered Detection:** Leverages a Convolutional Neural Network (CNN) trained on extensive AI and real image datasets
+- 🗂️ **Misinformation Combat:** Identifies and flags AI-generated and deepfake images
+- 🛡️ **Cyber Crime Reporting:** Provides direct reporting mechanism to Indian cyber crime portal when deepfakes are detected
+- 📈 **Robust Training Dataset:** Trained over a dataset of 100,000 images, consisting of 50,000 fake and 50,000 real images. 
+- 📚 Dataset Link: [**CIFAKE**](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
 
 
 <p>
@@ -28,24 +29,20 @@ Pinocchio's Nose is a comprehensive online wellbeing platform designed to detect
 
 ### 3. VulgarVeto: Audio Profanity Filter
 
-- **Automated Profanity Detection:** Uses Google Speech Recognition for precise audio analysis
-- **Comprehensive Filtering:** Identifies and censors explicit language in real-time
-- **Customizable Controls:** User-friendly interface for personalized content moderation
+- 🗣️ **Automated Profanity Detection:** Uses Google Speech Recognition for precise audio analysis
+- 🚫 **Comprehensive Filtering:** Identifies and censors explicit language in real-time
+- 🎛️ **Customizable Controls:** User-friendly interface for personalized content moderation
 <img src="https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/misc/image%20(1).png" width="500">
 
-## Project Structure:
+## 🧾 Project Structure:
 - **[ResNet50_Training.ipynb](https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/ResNet50_Training.ipynb)**  
   Trains a ResNet50 model on an image dataset to detect AI-generated or deepfake content.
-
 - **[Resnet50_Usage.ipynb](https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/Resnet50_Usage.ipynb)**  
   Demonstrates how to load and use the trained ResNet50 model for inference on new images.
-
 - **[CNN_Training.ipynb](https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/CNN_Training.ipynb)**  
   Builds and trains a custom Convolutional Neural Network (CNN) for binary classification of fake vs. real images.
-
 - **[CNN_Usage_ui.py](https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/CNN_Usage_ui.py)**  
   Implements a simple UI to upload images and get predictions from the trained CNN model.
-
 - **[VulgarVeto.py](https://github.com/Visheshh21/Pinocchio-s-Nose/blob/main/VulgarVeto.PY)**  
   Filters and flags profane language in audio content using speech recognition and text analysis.
 
